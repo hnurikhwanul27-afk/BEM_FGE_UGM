@@ -1,0 +1,190 @@
+{
+  "kabinet": {
+    "nama": "Kabinet Centra Perubahan",
+    "tema": "Show Your Pride For Our Geography"
+  },
+  "profil": "BEM KM Fakultas Geografi UGM adalah lembaga eksekutif mahasiswa tingkat fakultas yang menjadi wadah aspirasi, koordinasi, dan pergerakan mahasiswa Geografi. Melalui kabinetnya, BEM menjalankan program kerja di bidang kaderisasi, kajian, sosial masyarakat, minat bakat, dan kolaborasi lintas lembaga, baik di dalam maupun di luar kampus.",
+  "tujuan": "Mewujudkan mahasiswa Geografi yang berdaya, berintegritas, dan peduli, serta menjadikan BEM sebagai rumah bersama yang mempererat kebersamaan dan mendorong perubahan positif bagi fakultas dan masyarakat.",
+  "fungsi": "Wadah penyaluran aspirasi, pusat koordinasi antar-lembaga mahasiswa, penggerak pengembangan potensi dan prestasi, serta jembatan pengabdian mahasiswa kepada masyarakat.",
+  "visi": "Menjadi pusat perubahan yang kolaboratif, inklusif, dan berdampak bagi mahasiswa Geografi UGM dan masyarakat luas.",
+  "misi": "Memperkuat kebersamaan dan rasa bangga sebagai keluarga mahasiswa Geografi\nMenampung dan mengawal aspirasi mahasiswa secara terbuka dan transparan\nMengembangkan kepemimpinan, potensi, dan prestasi mahasiswa\nMenghadirkan aksi peduli bagi masyarakat melalui kegiatan sosial\nMembangun kolaborasi dengan lembaga mahasiswa di dalam dan luar UGM",
+  "logoBem": "[Contoh] Logo BEM melambangkan identitas mahasiswa Geografi yang berpijak pada bumi, ilmu, dan pengabdian. Ganti teks ini dengan filosofi logo yang sebenarnya.",
+  "logoKabinet": "[Contoh] Logo Kabinet Centra Perubahan menggambarkan semangat berpusat pada kebersamaan untuk menggerakkan perubahan. Ganti teks ini dengan filosofi logo yang sebenarnya.",
+  "korsa": "[Contoh] Korsa adalah kebanggaan dan identitas mahasiswa Fakultas Geografi. Ganti teks ini dengan filosofi korsa yang sebenarnya.",
+  "img": {
+    "kab": "/uploads/hero.jpg",
+    "logoBem": "/uploads/logo-bem.svg",
+    "logoKab": "/uploads/logo-kabinet.svg"
+  },
+  "korsaImg": [
+    {
+      "c": "Korsa Navy-Krem – tampak depan",
+      "u": "/uploads/korsa1.jpg"
+    },
+    {
+      "c": "Korsa Navy-Krem – tampak belakang",
+      "u": "/uploads/korsa2.jpg"
+    }
+  ],
+  "theme": {
+    "bg": "#4a0a0a",
+    "bg2": "#6e1410",
+    "red": "#8f1d14",
+    "gold": "#f0b94d",
+    "gold2": "#ffd98a",
+    "cream": "#fff3dc"
+  },
+  "sosmed": "Instagram | @bemfge_ugm\nEmail | bem.geo@ugm.ac.id\nWebsite | bem.geo.ugm.ac.id",
+  "logoBemPoin": "Bentuk | [Contoh] Makna bentuk utama logo BEM\nWarna | [Contoh] Makna warna logo BEM\nSimbol | [Contoh] Makna simbol atau ornamen pada logo",
+  "logoKabPoin": "Bentuk | [Contoh] Makna bentuk utama logo kabinet\nWarna | [Contoh] Makna warna logo kabinet\nSimbol | [Contoh] Makna simbol atau ornamen pada logo",
+  "korsaPoin": "Warna | [Contoh] Makna warna korsa Navy-Krem\nArti Korsa | [Contoh] Korsa sebagai simbol kebersamaan dan kebanggaan\nTujuan Korsa | [Contoh] Identitas yang dikenakan dengan bangga dalam setiap kegiatan\nSejarah Korsa | [Contoh] Ceritakan sejarah singkat korsa fakultas",
+  "yel": "[Contoh]\nGeografi, Geografi, siapa kita?\nKeluarga yang selalu bersama!\nBumi kita jaga, ilmu kita bagi,\nShow your pride for our geography!",
+  "mars": "[Contoh]\nDari bumi kita belajar,\nDari ruang kita bergerak,\nBersama dalam satu langkah,\nMenjaga asa, merawat karsa.\nGeografi kebanggaan kami,\nCentra perubahan negeri.",
+  "jargon": "Show Your Pride For Our Geography",
+  "sejarah": [
+    {
+      "t": "[Contoh] Tuliskan latar belakang berdirinya BEM Fakultas Geografi UGM, siapa yang menggagasnya, dan apa tujuan awalnya.",
+      "y": "Awal Pembentukan"
+    },
+    {
+      "t": "[Contoh] Tuliskan perubahan nama, struktur, dan program besar yang pernah dijalankan dari masa ke masa.",
+      "y": "Masa Perkembangan"
+    },
+    {
+      "t": "Kabinet saat ini membawa semangat kebersamaan dan kebanggaan terhadap Geografi, diwujudkan lewat kegiatan seperti Future Leadership Camp, Sapa Warga, webinar kolaborasi, dan kunjungan eksternal.",
+      "y": "Kabinet Centra Perubahan"
+    }
+  ],
+  "struktur": [
+    {
+      "id": "s1",
+      "img": "/uploads/avatar.svg",
+      "j": "Presiden BEM",
+      "n": "Nama Presiden",
+      "p": ""
+    },
+    {
+      "id": "s2",
+      "img": "/uploads/avatar.svg",
+      "j": "Wakil Presiden BEM",
+      "n": "Nama Wakil Presiden",
+      "p": "s1"
+    },
+    {
+      "id": "s3",
+      "img": "/uploads/avatar.svg",
+      "j": "Sekretaris Jenderal",
+      "n": "Nama Sekjen",
+      "p": "s2"
+    },
+    {
+      "id": "s4",
+      "img": "/uploads/avatar.svg",
+      "j": "Bendahara Umum",
+      "n": "Nama Bendum",
+      "p": "s2"
+    },
+    {
+      "id": "s5",
+      "img": "/uploads/avatar.svg",
+      "j": "Kementerian Sosial Masyarakat",
+      "n": "Nama Menteri",
+      "p": "s3"
+    },
+    {
+      "id": "s6",
+      "img": "/uploads/avatar.svg",
+      "j": "Kementerian KASPRO",
+      "n": "Nama Menteri",
+      "p": "s3"
+    },
+    {
+      "id": "s7",
+      "img": "/uploads/avatar.svg",
+      "j": "Kementerian Kominfo",
+      "n": "Nama Menteri",
+      "p": "s4"
+    },
+    {
+      "id": "s8",
+      "img": "/uploads/avatar.svg",
+      "j": "Kementerian Minat Bakat",
+      "n": "Nama Menteri",
+      "p": "s4"
+    }
+  ],
+  "berita": [
+    {
+      "d": "15 November 2026",
+      "id": "b1",
+      "img": "/uploads/p1.jpg",
+      "j": "Future Leadership Camp 2026",
+      "t": "Kegiatan daring melalui Zoom Meeting pukul 15.00–17.30 WIB dengan tema “Empowering Future Leaders for Sustainable and Impactful Change”. Narasumber: A. Babara Gemilang."
+    },
+    {
+      "d": "8 November 2026",
+      "id": "b2",
+      "img": "/uploads/p2.jpg",
+      "j": "Webinar Kolaborasi: Melihat dan Melawan Ableisme di Media Sosial",
+      "t": "Webinar daring hasil kolaborasi MOP BEM Biologi UGM dan KASPRO BEM Geografi UGM, pukul 08.15 WIB via Zoom. Narasumber: Bima Indra Permana, S.PWK., M.B.A. dan Kasim Komarudin."
+    },
+    {
+      "d": "8 November 2026",
+      "id": "b3",
+      "img": "/uploads/p3.jpg",
+      "j": "Kunjungan Eksternal BEM FGE UGM x HMPWK May Virida UNS",
+      "t": "Kunjungan eksternal BEM Fakultas Geografi UGM bersama HMPWK May Virida UNS di Fakultas Teknik UNS, pukul 08.30 WIB."
+    },
+    {
+      "d": "31 Oktober 2026",
+      "id": "b4",
+      "img": "/uploads/p4.jpg",
+      "j": "Sapa Warga: Aksi Peduli Mahasiswa Geografi untuk Warga",
+      "t": "Kegiatan Kementerian Sosial Masyarakat berisi senam bersama, pemeriksaan kesehatan, doorprize, fun games, dan pembagian sembako. “Satu pertemuan, banyak cerita. Mari saling bertemu dan berbagi bersama.”"
+    },
+    {
+      "d": "Oktober 2026",
+      "id": "b5",
+      "img": "/uploads/p6.jpg",
+      "j": "Open Pre Order Korsa Fakultas Geografi",
+      "t": "Pre order korsa Fakultas Geografi warna Navy-Krem kembali dibuka dengan tema “Show Your Pride For Our Geography”, tersedia ukuran S sampai 4XL."
+    },
+    {
+      "d": "2026",
+      "id": "b6",
+      "img": "/uploads/p8.jpg",
+      "j": "Rilis Kontingen Atlet & Seniman Geografi",
+      "t": "BEM merilis kontingen atlet dan seniman Geografi untuk menunjukkan kemampuan terbaik dan mengharumkan nama Geografi."
+    }
+  ],
+  "galeri": [
+    {
+      "c": "Future Leadership Camp 2026",
+      "u": "/uploads/p1.jpg"
+    },
+    {
+      "c": "Webinar Kolaborasi: Melihat dan Melawan Ableisme",
+      "u": "/uploads/p2.jpg"
+    },
+    {
+      "c": "Kunjungan Eksternal BEM FGE UGM x HMPWK UNS",
+      "u": "/uploads/p3.jpg"
+    },
+    {
+      "c": "Sapa Warga",
+      "u": "/uploads/p4.jpg"
+    },
+    {
+      "c": "Staff of the Month – September",
+      "u": "/uploads/p5.jpg"
+    },
+    {
+      "c": "Open Pre Order Korsa Fakultas Geografi",
+      "u": "/uploads/p6.jpg"
+    },
+    {
+      "c": "Rilis Kontingen Atlet & Seniman Geografi",
+      "u": "/uploads/p8.jpg"
+    }
+  ]
+}
